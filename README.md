@@ -1,6 +1,6 @@
-### Hola 👋
-
-**Yo I'm Akhil. A guy in search to travel the world and loves to code & tech**
+![Profile Pic](https://github.com/akhilmhdh/akhilmhdh/blob/master/media/profile.png)
+## A guy in search to travel the world
+> Coding is :sparkles:
 
 - 🔭 I’m currently working on **A IoT platform Grephy and PICONE**
 - 🌱 I’m currently learning **DevOps**
