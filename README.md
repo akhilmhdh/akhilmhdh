@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **More on Real World Problems and opensource**
 - 💬 Ask me about **Web and IoT**
-- 📫 How to reach me: ![akhilmhdh](https://www.linkedin.com/in/akhilmhdh/)
+- 📫 How to reach me: [akhilmhdh](https://www.linkedin.com/in/akhilmhdh/)
 - ⚡ Fun fact: I :heart: :dog:
