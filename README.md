@@ -1,7 +1,4 @@
 ![Profile Pic](https://github.com/akhilmhdh/akhilmhdh/blob/master/media/profile.png)
-## A guy in search to travel the world
-
-![Profile Pic](https://github.com/akhilmhdh/akhilmhdh/blob/master/media/profile.png)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
