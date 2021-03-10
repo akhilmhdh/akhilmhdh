@@ -19,7 +19,7 @@
 <hr />
 
 - 🔭 I’m currently working on **some cool projects**  :shushing_face:
-- 🌱 I’m currently learning **System Architectures and Blockchain**  :thinking:
+- 🌱 I’m currently learning **Rust, Deno and Blockchain**  :thinking:
 - 👯 I’m looking to collaborate on **More on Real World Problems and OpenSource** :slightly_smiling_face:
 - 💬 Ask me about **Web and IoT** :grin:
 - :sparkles: Ultra extrovert :wink:
