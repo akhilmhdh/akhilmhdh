@@ -3,7 +3,7 @@
   <b><i>Let's connect! Find me on the web.</i></b>
  </p>
 <p align="center">
-  <a href="akhilmhdh@gmail.com" target="_blank">
+  <a href="mailto:akhilmhdh@gmail.com" target="_blank">
     <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akhilmhdh/" target="_blank">
@@ -18,13 +18,9 @@
 <br />
 <hr />
 
-- 🔭 I’m currently working on **some cool projects**  :shushing_face:
-- 🌱 I’m currently learning **Rust, Deno and Blockchain**  :thinking:
+- 🔭 I’m currently working on [One Platform](https://github.com/1-Platform/one-platform) and JASM(coming soon) :shushing_face:
+- 🌱 I’m currently learning **Rust, Golang and CS Fundamentals**  :thinking:
 - 👯 I’m looking to collaborate on **More on Real World Problems and OpenSource** :slightly_smiling_face:
 - 💬 Ask me about **Web and IoT** :grin:
 - :sparkles: Ultra extrovert :wink:
-- ⚡ Fun fact: I :heart: :dog:s
-
-[gmail]: akhilmhdh@gmail.com
-[linkedin]: 
-[Medium]:
+- ⚡ Fun fact: I :heart: food, travelling and :dog:s
