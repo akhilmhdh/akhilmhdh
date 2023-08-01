@@ -21,8 +21,8 @@
 <br />
 <hr />
 
-- 🔭 I’m currently working on [One Platform](https://github.com/1-Platform/one-platform), Authy and JASM(coming soon) :shushing_face:
-- 🌱 I’m currently learning **Rust, Golang and CS Fundamentals**  :thinking:
+- 🔭 I’m currently working on [Infisical](https://github.com/infisical/infisical), Square One(coming soon) :shushing_face:
+- 🌱 I’m currently learning **Compilers and Systems**  :thinking:
 - 👯 I’m looking to collaborate on **More on Real World Problems and OpenSource** :slightly_smiling_face:
 - 💬 Ask me about **anything on technology. Let's find the ans together** :grin:
 - :sparkles: Ultra extrovert :wink:
